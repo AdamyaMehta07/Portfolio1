@@ -11,7 +11,7 @@ export const personal = {
     'Node.js Developer',
   ],
   location: 'Ujjain / Madhya Pradesh, India',
-  email: 'mehtaadamya07@gmail.com',
+  email: 'mehtaadamya7@gmail.com',
   phone: '+91 9183155787',
   linkedin: 'https://linkedin.com/in/adamya-mehta',
   github: 'https://github.com/AdamyaMehta07',
