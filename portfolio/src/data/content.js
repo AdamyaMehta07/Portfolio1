@@ -171,10 +171,10 @@ export const projects = [
 
 export const experience = [
   {
-    role: 'Full Stack Developer Intern',
+    role: 'Full Stack Developer ',
     company: 'Affimentus',
     location: 'Indore, MP',
-    period: 'July 2025 – Nov 2025',
+    period: 'July 2025 – Dec 2025',
     points: [
       'Developed full-stack MERN applications using the MVC pattern, boosting query performance by 25% via indexing.',
       'Built reusable React components to standardize state management and improve maintainability.',
@@ -183,10 +183,10 @@ export const experience = [
     ],
   },
   {
-    role: 'Frontend Developer Intern',
+    role: 'Frontend Developer ',
     company: 'Jobsence',
     location: 'Ujjain, MP',
-    period: 'Aug 2023 – Oct 2023',
+    period: 'May 2023 – Oct 2023',
     points: [
       'Created responsive layouts with 100% cross-browser rendering accuracy using HTML5, CSS3, and JavaScript.',
       'Built interactive UI modules using modern layout techniques like CSS Flexbox and Grid.',
