@@ -43,7 +43,7 @@ export const skills = [
   },
   {
     category: 'Databases & Tools',
-    items: ['MongoDB', 'Mongoose','PostgreSQL' 'SQL', 'Git / GitHub', 'Postman', 'Vercel', 'Render'],
+    items: ['MongoDB', 'Mongoose','PostgreSQL' , 'SQL', 'Git / GitHub', 'Postman', 'Vercel', 'Render'],
   },
   {
     category: 'Core CS',
