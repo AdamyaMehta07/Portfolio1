@@ -24,7 +24,7 @@ export const personal = {
 export const quickFacts = [
   { label: 'Location', value: 'Ujjain, Madhya Pradesh' },
   { label: 'Education', value: 'B.Tech, Computer Science' },
-  { label: 'Focus', value: 'MERN Stack + AI Integration' },
+  { label: 'Focus', value: 'FullStack + AI Integration' },
   { label: 'Experience', value: '2 Internships · 204+ Commits' },
 ];
 
