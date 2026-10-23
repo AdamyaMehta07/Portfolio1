@@ -31,11 +31,11 @@ export const quickFacts = [
 export const skills = [
   {
     category: 'Languages',
-    items: ['JavaScript (ES6+)', 'Java', 'Python', 'SQL', 'HTML5', 'CSS3'],
+    items: ['JavaScript (ES6+)', 'TypeScript' ,'Next.js' ,'Java', 'Python', 'SQL', 'HTML5', 'CSS3'],
   },
   {
     category: 'Frontend',
-    items: ['React.js', 'Tailwind CSS', 'TanStack Query', 'Recharts', 'Framer Motion', 'Responsive Design'],
+    items: ['React.js','TypeScript' , 'Tailwind CSS', 'TanStack Query','Next.js' , 'Recharts', 'Framer Motion', 'Responsive Design'],
   },
   {
     category: 'Backend',
@@ -43,7 +43,7 @@ export const skills = [
   },
   {
     category: 'Databases & Tools',
-    items: ['MongoDB', 'Mongoose', 'SQL', 'Git / GitHub', 'Postman', 'Vercel', 'Render'],
+    items: ['MongoDB', 'Mongoose','PostgreSQL' 'SQL', 'Git / GitHub', 'Postman', 'Vercel', 'Render'],
   },
   {
     category: 'Core CS',
